@@ -1,1 +1,1 @@
-# Binary-Classification-Regression-Algorithm-Based-on-X-Y-Coordinates-
+# Binary Classification Regression Algorithm Based on X-Y Coordinates
